@@ -59,7 +59,7 @@ class HackedReloader : AutoReloader
 		}
 		else
 		{
-			A_SpawnItemEx("HDLoose7mm", 0, 0, 0, 1, 0, 3, 0, SXF_NOCHECKPOSITION);
+			A_SpawnItemEx("SevenMilAmmoRecast", 0, 0, 0, 1, 0, 3, 0, SXF_NOCHECKPOSITION);
 		}
 	}
 
